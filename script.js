@@ -90,3 +90,7 @@ class Student extends User{
 let s= new Student();
 console.log(s);
 s.pay();
+console.log(typeof[1,2,3,4])// object
+console.log(typeof s)// object
+console.log(typeof f );// function
+console.log(typeof Student );// function
